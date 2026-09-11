@@ -1,6 +1,6 @@
 # Desafio Segurança
 
-Quiz online de Segurança do Trabalho com cadastro e ranking dos cinco melhores resultados.
+Quiz online de Segurança do Trabalho com cadastro e ranking geral de participantes.
 
 ## Configurar o Firebase
 
